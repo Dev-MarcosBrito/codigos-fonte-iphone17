@@ -22,9 +22,13 @@ Em breve, disponibilizarei o <strong>repositório dedicado ao GitHub Pages</stro
 O link será adicionado aqui assim que estiver online:
 </p>
 
-<p align="center">
-🔗 <em>Link para o site em breve...</em>
-</p>
+---
+
+## 🌐 Acesse o Site
+
+<a href="https://dev-marcosbrito.github.io/site-iPhone17/" target="_blank">
+  🔗 <strong>(https://dev-marcosbrito.github.io/site-iPhone17/)</strong>
+</a>
 
 ---
 
