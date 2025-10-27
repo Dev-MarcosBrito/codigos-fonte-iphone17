@@ -116,7 +116,7 @@ Sinta-se à vontade para clonar, modificar e evoluir esta ideia. 🚀
 
 <div align="center">
 
-Feito com 💙 por <strong>Marcos Brito</strong>  
+Feito por <strong>Marcos Brito</strong>  
 <br>
 <sub>“Um bom desenvolvedor entrega funcionalidades; um excelente desenvolvedor entrega conhecimento junto com o código.”</sub>
 
